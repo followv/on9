@@ -57,7 +57,7 @@ function aplayer0 () {
         lrcType: 0,
         audio: 
 		[
-			{name: '懒音',artist: '大嘢先生与迪迪仔',url: 'https://www.on9.fun/ii/20070703.mp3'},
+			{name: '懒音',artist: '大嘢先生与迪迪仔',url: 'https://www.on9.fun/ii/20070703.mp3',cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',theme: '#505d6b'},
 			{name: '声衰',artist: '大嘢先生与迪迪仔',url: 'https://www.on9.fun/ii/20070704.mp3'},
 			{name: '负面',artist: '大嘢先生与迪迪仔',url: 'https://www.on9.fun/ii/20070705.mp3'},
 			{name: '错晒',artist: '大嘢先生与迪迪仔',url: 'https://www.on9.fun/ii/20070706.mp3'},
