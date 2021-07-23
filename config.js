@@ -51,7 +51,7 @@ function clearPlayer () {
 
 function aplayer0 () {
     window.ap0 = new APlayer({
-        container: document.getElementById('aplayer0'),
+        container: document.getElementById('aplayer1'),
         fixed: false,
 	autoplay: true,
         lrcType: 0,
